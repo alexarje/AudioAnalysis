@@ -1,10 +1,6 @@
 
 .DS_Store
 
-build/AudioAnalysis.app/Contents/support/mididrivers/midi_adrewire.mxo.mxo/Contents/Info.plist
-
-build/AudioAnalysis.app/Contents/AudioAnalysis.mxf
-
 *.h
 
 *.plist
@@ -16,3 +12,5 @@ build/AudioAnalysis.app/Contents/AudioAnalysis.mxf
 *.svg
 
 *.zip
+
+build/*
